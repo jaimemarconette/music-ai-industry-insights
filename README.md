@@ -32,15 +32,25 @@ All data and sources used in the analysis will be documented within the project.
 
 ### AI & Music Consumption
 
-Analysis of the growing presence of AI-assisted and AI-generated music in global streaming consumption, including the leading AI-assisted tracks during the first 24 weeks of 2026.
+Analysis of the growing activity around AI-assisted and AI-generated music, including the top five AI-assisted and/or generated tracks ranked by global On-Demand Audio streams during the first 24 weeks of 2026.
+
+The analysis highlights an emerging market dynamic: while individual AI-generated tracks have not yet made a profound long-term impact on overall consumption behavior, certain tracks are already generating significant streaming activity and demonstrating potential consumer demand.
 
 ### AI & Musicians
 
-Research examining how musicians perceive and use generative AI, including differences between musicians and the broader U.S. population in attitudes toward AI as a creative tool.
+Research examining how musicians are adopting and responding to generative AI as a creative and production tool.
+
+The research found that 54% of U.S. musicians expressed positive feelings and acceptance toward generative AI tools in music, compared with 35% of non-musicians. Additionally, 18% of U.S. musicians reported using AI to edit or remix existing music, compared with 6% of non-musicians.
+
+These findings point toward an opportunity for technology platforms to develop formal, ethical AI creator tools that protect intellectual property while enabling continued creative and technical innovation.
 
 ### The Creator Economy
 
-Analysis of the expanding creator ecosystem and the increasingly blurred lines between music consumers, creators, and superfans.
+Analysis of the growing overlap between music consumers and content creators.
+
+Luminate research found that 39% of the U.S. general population considers itself a content creator, with 35% reporting that they upload music online in audio and/or video form. These creators are also 52% more likely to attend music festivals and 45% more likely to be music superfans than the average U.S. music listener.
+
+The findings suggest that the relationship between audiences, creators, and rights holders is becoming increasingly interconnected, with consumers taking a more active role in creating and promoting music.
 
 [View the full Luminate 2026 Midyear AI & Music Analysis](./luminate-2026-midyear-ai-music-analysis.pdf)
 
