@@ -22,12 +22,18 @@ The goal is not to predict a single future for AI and music, but to use publicly
 
 The project combines:
 
-* Publicly available music-industry and consumption data reports authored by Jaime Marconette
-* Data analysis and visualization
-* Market and consumer trends
-* Strategic analysis of implications for the music ecosystem
+Publicly available Luminate music-industry and consumption data reports authored by Jaime Marconette
+Data analysis and visualization
+Market and consumer trends
+Strategic analysis of implications for the music ecosystem
 
 All data and sources used in the analysis will be documented within the project.
+
+## Featured Research
+
+Selected research and analysis developed by Jaime Marconette as part of Luminate's music-industry insights work.
+
+The featured materials examine the emerging relationship between artificial intelligence, music creation, consumer behavior, and the creator economy.
 
 ## About the Author
 
