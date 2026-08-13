@@ -1,5 +1,3 @@
-# music-ai-industry-insights
-Exploring the intersection of AI, music consumption, creators, rights, and the music business.
 # Music & AI Industry Insights
 
 Exploring the intersection of **artificial intelligence, music consumption, creators, rights, and the music business**.
@@ -12,28 +10,49 @@ The goal is not to predict a single future for AI and music, but to use publicly
 
 ## Key Questions
 
-* How is AI changing the way music is created, discovered, distributed, and consumed?
-* What opportunities and challenges does generative AI create for artists and creators?
-* How might AI affect the economics of recorded music and music publishing?
-* What considerations should technology companies account for when building music products?
-* How can consumption and audience-impact data inform strategic decisions around music and licensing?
+- How is AI changing the way music is created, discovered, distributed, and consumed?
+- What opportunities and challenges does generative AI create for artists and creators?
+- How might AI affect the economics of recorded music and music publishing?
+- What considerations should technology companies account for when building music products?
+- How can consumption and audience-impact data inform strategic decisions around music and licensing?
+- What does responsible AI adoption look like from the perspective of the broader music ecosystem?
 
 ## Approach
 
 The project combines:
 
-Publicly available Luminate music-industry and consumption data reports authored by Jaime Marconette
-Data analysis and visualization
-Market and consumer trends
-Strategic analysis of implications for the music ecosystem
+- Publicly available music-industry and consumption data reports authored by Jaime Marconette
+- Data analysis and visualization
+- Market and consumer trends
+- Strategic analysis of implications for the music ecosystem
 
 All data and sources used in the analysis will be documented within the project.
 
 ## Featured Research
 
-Selected research and analysis developed by Jaime Marconette as part of Luminate's music-industry insights work.
+### AI & Music Consumption
 
-The featured materials examine the emerging relationship between artificial intelligence, music creation, consumer behavior, and the creator economy.
+Analysis of the growing presence of AI-assisted and AI-generated music in global streaming consumption, including the leading AI-assisted tracks during the first 24 weeks of 2026.
+
+### AI & Musicians
+
+Research examining how musicians perceive and use generative AI, including differences between musicians and the broader U.S. population in attitudes toward AI as a creative tool.
+
+### The Creator Economy
+
+Analysis of the expanding creator ecosystem and the increasingly blurred lines between music consumers, creators, and superfans.
+
+[View the full Luminate 2026 Midyear AI & Music Analysis](./luminate-2026-midyear-ai-music-analysis.pdf)
+
+## Strategic Questions
+
+This research raises broader questions about the future of music and AI:
+
+- How will AI change the creative workflows of musicians and other creators?
+- Will audiences distinguish between AI-assisted and fully AI-generated music?
+- What role will AI play in discovery, creation, and fan engagement?
+- How should labels, publishers, artists, and technology companies approach rights and licensing?
+- Where can AI create new value for creators without displacing the human creative process?
 
 ## About the Author
 
@@ -47,4 +66,4 @@ His work sits at the intersection of **music, technology, data, and the evolving
 
 🚧 **In development**
 
-The initial phase of this project will establish the research framework and incorporate publicly available datasets and industry sources.
+The initial phase of this project establishes the research framework and incorporates publicly available music-industry data, research, and analysis.
