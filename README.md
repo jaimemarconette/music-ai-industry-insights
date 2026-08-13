@@ -54,15 +54,39 @@ The findings suggest that the relationship between audiences, creators, and righ
 
 [View the full Luminate 2026 Midyear AI & Music Analysis](./luminate-2026-midyear-ai-music-analysis.pdf)
 
-## Strategic Questions
+## Strategic Implications
 
-This research raises broader questions about the future of music and AI:
+The research points to several broader implications for the evolving relationship between AI, music, creators, and the music business.
 
-- How will AI change the creative workflows of musicians and other creators?
-- Will audiences distinguish between AI-assisted and fully AI-generated music?
-- What role will AI play in discovery, creation, and fan engagement?
-- How should labels, publishers, artists, and technology companies approach rights and licensing?
-- Where can AI create new value for creators without displacing the human creative process?
+### 1. AI as a Creator Tool
+
+The research suggests an important distinction between AI replacing human creativity and AI becoming part of the creative workflow.
+
+U.S. musicians show substantially greater acceptance of generative AI than the broader population, while some musicians are already using AI to edit and remix existing music. This creates an opportunity to think about AI not simply as a generator of finished works, but as a set of tools that can expand the capabilities of musicians and other creators.
+
+### 2. Consumption as the Market Test
+
+The emergence of AI-assisted and AI-generated tracks with significant streaming activity provides an early signal of consumer engagement.
+
+At the same time, the relatively limited impact of AI-generated music on overall consumption behavior suggests that technological capability and consumer adoption are not necessarily the same thing. Continued analysis of streaming behavior will be important in understanding whether early activity develops into a sustained shift in listening habits.
+
+### 3. The Creator-Consumer Convergence
+
+The growth of the creator economy is changing the traditional relationship between audiences and the music industry.
+
+As more consumers identify as creators and participate in creating and sharing music, the distinction between listener, creator, and fan becomes increasingly fluid. This has implications for how music companies think about discovery, engagement, product development, and the ways audiences participate in the music ecosystem.
+
+### 4. Rights, Licensing, and Economic Incentives
+
+The continued development of AI music also raises fundamental questions around rights, attribution, licensing, and economic incentives.
+
+Consumption data can play an important role in understanding the impact of emerging technologies and informing conversations among artists, publishers, labels, platforms, and technology companies. As AI-enabled music products evolve, sustainable models will need to balance technological innovation with the interests and incentives of the creators and rights holders whose work contributes to the ecosystem.
+
+### 5. The Opportunity for Responsible Innovation
+
+The intersection of AI and music presents an opportunity to build tools that expand creative possibilities while recognizing the importance of creators, intellectual property, and the broader music ecosystem.
+
+The most meaningful developments may ultimately come not from AI operating independently of the existing music ecosystem, but from technology that enables creators and audiences to participate in new ways while creating sustainable value across the ecosystem.
 
 ## About the Author
 
