@@ -68,7 +68,7 @@ U.S. musicians show substantially greater acceptance of generative AI than the b
 
 The emergence of AI-assisted and AI-generated tracks with significant streaming activity provides an early signal of consumer engagement.
 
-At the same time, the relatively limited impact of AI-generated music on overall consumption behavior suggests that technological capability and consumer adoption are not necessarily the same thing. Continued analysis of streaming behavior will be important in understanding whether early activity develops into a sustained shift in listening habits.
+At the same time, the relatively limited impact of individual AI-generated music tracks on consumption behavior suggests that technological capability and consumer adoption are not necessarily the same thing. Continued analysis of streaming behavior will be important in understanding whether early activity develops into a sustained shift in listening habits.
 
 ### 3. The Creator-Consumer Convergence
 
